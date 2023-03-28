@@ -1,0 +1,21 @@
+h1{
+    color:#f4c2c2;
+    /* height: 15px; */
+    background-color: black
+}
+body{
+    background-color: goldenrod
+}
+
+.clase1{
+    background-color: pink;
+}
+
+.caja{
+    background-color: purple;
+    height: 200px;
+    width: 100px;
+    border: black  5px;
+    margin: 5px;
+    padding: 200px;
+}
