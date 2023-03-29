@@ -19,6 +19,19 @@ body{
     width: 250px;
 }
 
+.button:hover {
+    background-color: violet;
+    color: black;
+    border: dotted purple  2px;
+}
+
+.estoy{
+    background-color: violet;
+    color: black;
+    border: dotted black  1px;
+
+}
+
 .clase1{
     background-color: black;
 }
