@@ -1,21 +1,43 @@
 h1{
     color:#f4c2c2;
-    /* height: 15px; */
+    height: 40px;
+    width: 287px;
+    border: dotted #bb6f91  2px;
+    margin: 28px;
+    padding: 10px;
     background-color: black
 }
 body{
-    background-color: goldenrod
+    background-color: black
+}
+
+.fondonegro{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    border: outset gray  5px;
+    width: 250px;
 }
 
 .clase1{
-    background-color: pink;
+    background-color: black;
 }
 
-.caja{
+/* .caja{
     background-color: purple;
-    height: 200px;
-    width: 100px;
-    border: black  5px;
-    margin: 5px;
-    padding: 200px;
-}
+    height: 10px;
+    width: 70px;
+    border: outset gray  5px;
+    margin: 25px;
+    padding: 10px;
+} */
+
+/* .cajafort{
+    text-decoration: #012ef3;
+    background-color: transparent;
+    height: 50px;
+    width: 500px;
+    border: outset gray  5px;
+    margin: 40px;
+    padding: 20px;
+} */
